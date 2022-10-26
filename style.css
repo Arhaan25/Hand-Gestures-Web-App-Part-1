@@ -1,0 +1,117 @@
+center p {
+    font-size: 22px;
+    background-color: rgb(211, 119, 7);
+    color: orange;
+}
+
+body {
+    background-image: linear-gradient(to left top, darkred, red, darkorange, orange, yellow, rgb(110, 110, 30),darkgreen, green, lightgreen, lightblue, blue, darkblue, purple,darkviolet, violet, pink, lightpink, brown, black, gray, darkgray, lightgray, white);
+}
+
+span {
+    font-size: 30px;
+}
+
+#camera , #result{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px; 
+}
+
+#result_hand_gesture_name {
+    color: black;
+}
+
+.hand_gesture_name {
+    font-size: 40px;
+}
+
+.hand_gesture {
+    font-size:48px;
+}
+
+.heading {
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+    background-color: rgb(100, 1, 1);
+    color: red;
+}
+
+center h4 {
+    background-color: rgb(80, 59, 7);
+    color: yellow;
+}
+
+#e1 {
+    background-color: darkred;
+}
+
+#e2 {
+    background-color: red;
+}
+
+#e3 {
+    background-color: rgb(211, 119, 7);
+}
+
+#e4 {
+    background-color: orange;
+}
+
+#e5 {
+    background-color: rgb(80, 59, 7);
+}
+
+#e6 {
+    background-color: yellow;
+}
+
+#e7 {
+    background-color: green;
+}
+
+#e8 {
+    background-color: blue;
+}
+
+#e9 {
+    background-color: rgb(0, 0, 56);
+}
+
+#e10 {
+    background-color: rgb(85, 34, 42);
+}
+
+#e11 {
+    background-color: pink;
+}
+
+#e12 {
+    background-color: darkviolet;
+}
+
+#l2 {
+    background-color: rgb(0, 0, 56);
+    color: green;
+}
+
+#l1 {
+    background-color: blue;
+    color: aqua;
+}
+
+.tn1 {
+    background-color: rgb(85, 34, 42);
+    color: pink;
+}
+
+#l3 {
+    background-color: darkviolet;
+    color: violet;
+}
+
+.tn2 {
+    background-color: rgb(70, 13, 13);
+    color: rgb(170, 62, 62);
+}
